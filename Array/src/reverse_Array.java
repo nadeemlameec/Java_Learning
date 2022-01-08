@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class reverse_Array {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int[] arr = {1, 3, 56, 3, 52, 1};
+        int[] arr = {1, 3, 56, 3, 52, 1, 35};
         reverse(arr);
         System.out.println(Arrays.toString(arr));
 
