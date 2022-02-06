@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstProject.iml" filepath="$PROJECT_DIR$/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOrting/SOrting.iml" filepath="$PROJECT_DIR$/SOrting/SOrting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
     </modules>
   </component>
 </project>
